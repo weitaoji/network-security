@@ -1,3 +1,0 @@
-upload-labs:  https://github.com/c0ny1/upload-labs
-
-www.ctfhub.com技能树
