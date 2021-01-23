@@ -6,9 +6,7 @@
 ## 靶场：
 
 ### SSRF:
-1.
-ssrf-lab:https://github.com/m6a-UdS/ssrf-lab
-ssrf-lab靶场教程：https://www.codenong.com/cs105709428/
+1.ssrf-lab:https://github.com/m6a-UdS/ssrf-lab
 2.ctfhub.com中ssrf模块
 
 ### XSS:
@@ -25,12 +23,14 @@ ssrf-lab靶场教程：https://www.codenong.com/cs105709428/
 
 
 ### 综合靶场：
-www.ctfhub.com
-dvwa
-pikachu
-bwapp
+1.www.ctfhub.com
+2.dvwa
+3.pikachu
+4.bwapp
+
+## 靶场教程
+1.ssrf-lab靶场教程：https://www.codenong.com/cs105709428/
 
 
-
-git命令简易教程网站
+##### git命令简易教程网站
 https://www.bootcss.com/p/git-guide/
