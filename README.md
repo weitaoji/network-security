@@ -9,17 +9,26 @@ SSRF:
 1.
 ssrf-lab:https://github.com/m6a-UdS/ssrf-lab
 ssrf-lab靶场教程：https://www.codenong.com/cs105709428/
+2.ctfhub.com中ssrf模块
 
 XSS:
-xss学习，以及利用平台：xssaq.com
+1.xss学习，以及利用平台：xssaq.com
+2.xss-lab:https://github.com/paralax/xss-labs
 
 
 UPload:
 1.upload-labs:  https://github.com/c0ny1/upload-labs
 
 
+Sqli:
+1.sqli-lab:https://github.com/Audi-1/sqli-labs
+
+
 综合靶场：
 www.ctfhub.com
+dvwa
+pikachu
+bwapp
 
 
 
