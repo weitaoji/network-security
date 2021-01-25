@@ -1,1 +1,16 @@
-ssrf文章：https://xz.aliyun.com/t/7405
+长亭科技，利用 Gopher 协议拓展攻击面:  
+https://blog.chaitin.cn/gopher-attack-surfaces/#h2.3_%E6%94%BB%E5%87%BB-fastcgi  
+
+gopher详解：  
+https://cloud.tencent.com/developer/article/1610645  
+
+ssrf中的fastcgi(含搭建靶场):   
+https://joner11234.github.io/article/9897b513.html   
+使用docker的nginx-php-fpm环境：
+https://github.com/richarvey/nginx-php-fpm
+
+SSRF攻击内网Redis(含搭建靶场):  
+https://joner11234.github.io/article/9d7d2c7d.html  
+
+那些年乌云大佬们 SSRF 过的内网:  
+http://blog.leanote.com/post/snowming/b42f5d7ab396  
