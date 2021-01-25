@@ -4,10 +4,9 @@ https://blog.chaitin.cn/gopher-attack-surfaces/#h2.3_%E6%94%BB%E5%87%BB-fastcgi
 gopher详解：  
 https://cloud.tencent.com/developer/article/1610645  
 
-ssrf中的fastcgi(含搭建靶场):   
-https://joner11234.github.io/article/9897b513.html   
-使用docker的nginx-php-fpm环境：
-https://github.com/richarvey/nginx-php-fpm
+vulhub下载fpm靶场环境  
+ssrf-fpm利用复现:  
+https://0verwatch.top/Gopher-fastcgi.html  
 
 SSRF攻击内网Redis(含搭建靶场):  
 https://joner11234.github.io/article/9d7d2c7d.html  
