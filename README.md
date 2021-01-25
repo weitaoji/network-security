@@ -33,4 +33,5 @@ ssrf-lab靶场教程：https://www.codenong.com/cs105709428/.
 https://www.bootcss.com/p/git-guide/.  
 
 
+## 总结的图片(文件夹下有xmind思维导图文件)
 ![upload图片](upload/1.png)
