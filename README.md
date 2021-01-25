@@ -17,6 +17,7 @@ ssrf-lab靶场教程：https://www.codenong.com/cs105709428/.
 
 ### UPload:
 1.upload-labs:  https://github.com/c0ny1/upload-labs.  
+[upload/1.png]()
 
 
 ### Sqli:
