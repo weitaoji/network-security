@@ -1,0 +1,3 @@
+./create_exp生成exp
+可修改create.exp 中的<?php echo `ls`?>命令执行部分
+python报错忽略

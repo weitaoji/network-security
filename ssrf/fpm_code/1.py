@@ -1,4 +1,6 @@
+import warnings
 import urllib.parse
+warnings.filterwarnings('ignore')
 
 a=''
 with open('hex.txt','r') as f:

