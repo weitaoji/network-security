@@ -12,4 +12,4 @@ for i in range(0,length,2):
     b+=a[i]
     b+=a[i+1]
 b=urllib.parse.quote(b)
-print(b)
+print('gopher://127.0.0.1:9000/_'+b)
