@@ -4,9 +4,11 @@ https://blog.chaitin.cn/gopher-attack-surfaces/#h2.3_%E6%94%BB%E5%87%BB-fastcgi
 gopher详解：  
 https://cloud.tencent.com/developer/article/1610645  
 
-vulhub下载fpm靶场环境  
-ssrf-fpm利用复现:  
-https://0verwatch.top/Gopher-fastcgi.html  
+fastcgi基础：https://joner11234.github.io/article/9897b513.html
+fpm漏洞原理：https://www.leavesongs.com/PENETRATION/fastcgi-and-php-fpm.html
+exp: https://gist.github.com/phith0n/9615e2420f31048f7e30f3937356cf75
+fpm利用复现文章: https://0verwatch.top/Gopher-fastcgi.html  
+2.ctfhub中有实验环境
 
 SSRF攻击内网Redis(含搭建靶场):  
 https://joner11234.github.io/article/9d7d2c7d.html  

@@ -1,0 +1,5 @@
+#!/bin/bash
+nc -l 9000 > 1.txt
+xxd -p 1.txt > hex.txt
+python3 1.py
+rm 1.txt hex.txt
