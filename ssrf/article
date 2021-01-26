@@ -12,6 +12,8 @@ fpm利用复现文章: https://0verwatch.top/Gopher-fastcgi.html
 
 SSRF攻击内网Redis(含搭建靶场):  
 https://joner11234.github.io/article/9d7d2c7d.html  
+数据库架构:
+https://zhuanlan.zhihu.com/p/107336513
 
 那些年乌云大佬们 SSRF 过的内网:  
 http://blog.leanote.com/post/snowming/b42f5d7ab396  
