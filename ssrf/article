@@ -12,6 +12,8 @@ fpm利用复现文章: https://0verwatch.top/Gopher-fastcgi.html
 
 SSRF攻击内网Redis(含搭建靶场):  
 https://sec.thief.one/article_content?a_id=3c0250e0cbc5180cf95bba5002385533
+redis写文件原理
+https://www.leavesongs.com/PENETRATION/write-webshell-via-redis-server.html
 数据库架构:
 https://zhuanlan.zhihu.com/p/107336513
 

@@ -28,7 +28,7 @@ def redis_format(arr):
 if __name__=="__main__":
 
     for x in cmd:
-        payload += redis_format(x)
-        #  payload += urllib.quote(redis_format(x))
+        #  payload += redis_format(x)
+        payload += urllib.quote(redis_format(x))
 
     print payload
