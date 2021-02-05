@@ -29,10 +29,13 @@ ssrf-lab靶场教程：https://www.codenong.com/cs105709428/.
 3.pikachu.  
 4.bwapp.  
 
-##### git命令简易教程网站
-https://www.bootcss.com/p/git-guide/.  
-
-
 ## 总结且完善中的图片(文件夹下有xmind思维导图文件)
 ![upload图片](upload/upload.png)
 ![ssrf图片](ssrf/ssrf.png)
+
+
+## 其他
+### git命令简易教程网站
+https://www.bootcss.com/p/git-guide/.  
+### 谈谈渗透测试和红队的区别
+https://www.secrss.com/articles/12168
