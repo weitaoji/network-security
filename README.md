@@ -34,4 +34,5 @@ https://www.bootcss.com/p/git-guide/.
 
 
 ## 总结的图片(文件夹下有xmind思维导图文件)
-![upload图片](upload/1.png)
+![upload图片](upload/upload.png)
+![ssrf图片](ssrf/ssrf.png)
