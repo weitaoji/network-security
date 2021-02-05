@@ -1,21 +1,30 @@
-长亭科技，利用 Gopher 协议拓展攻击面:  
+1.长亭科技，利用 Gopher 协议拓展攻击面:  
 https://blog.chaitin.cn/gopher-attack-surfaces/#h2.3_%E6%94%BB%E5%87%BB-fastcgi  
 
-gopher详解：  
+2.gopher详解：  
 https://cloud.tencent.com/developer/article/1610645  
 
-fastcgi基础：https://joner11234.github.io/article/9897b513.html
-fpm漏洞原理：https://www.leavesongs.com/PENETRATION/fastcgi-and-php-fpm.html
-exp: https://gist.github.com/phith0n/9615e2420f31048f7e30f3937356cf75
-fpm利用复现文章: https://0verwatch.top/Gopher-fastcgi.html  
-2.ctfhub中有实验环境
+3.fastcgi基础：https://joner11234.github.io/article/9897b513.html
+4.fpm漏洞原理：https://www.leavesongs.com/PENETRATION/fastcgi-and-php-fpm.html
+5.exp: https://gist.github.com/phith0n/9615e2420f31048f7e30f3937356cf75
+6.fpm利用复现文章: https://0verwatch.top/Gopher-fastcgi.html  
+7.ctfhub中有实验环境
 
-SSRF攻击内网Redis(含搭建靶场):  
+8.SSRF攻击内网Redis(含搭建靶场):  
 https://sec.thief.one/article_content?a_id=3c0250e0cbc5180cf95bba5002385533
-redis写文件原理
+9.redis写文件原理
 https://www.leavesongs.com/PENETRATION/write-webshell-via-redis-server.html
-数据库架构:
+10.redis利用crontab反弹shell原理
+https://www.cnblogs.com/kerrycode/p/3238346.html
+11.关于/dev/tcp/${HOST}/${PORT}
+https://www.jianshu.com/p/f10736931b93
+12.redis利用和攻击
+https://xz.aliyun.com/t/7974
+
+反弹shell使用ngrok
+
+12.数据库架构:
 https://zhuanlan.zhihu.com/p/107336513
 
-那些年乌云大佬们 SSRF 过的内网:  
+13.那些年乌云大佬们 SSRF 过的内网:  
 http://blog.leanote.com/post/snowming/b42f5d7ab396  
