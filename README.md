@@ -1,4 +1,5 @@
 # network-security
+appactivate
 
 学习网络安全练习过的靶场，笔记，还有一些好文章
 之后会有一些实战案例
