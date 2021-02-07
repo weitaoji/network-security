@@ -31,7 +31,7 @@ ssrf-lab靶场教程：https://www.codenong.com/cs105709428/.
 
 ## 总结且完善中的图片(文件夹下有xmind思维导图文件)
 ![upload图片](upload/upload.png)
-![ssrf图片](ssrf/ssrf.png)
+![ssrf图片](ssrf/ssrf2.png)
 
 
 ## 其他
