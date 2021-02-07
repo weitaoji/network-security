@@ -11,8 +11,8 @@ ssrf-lab靶场教程：https://www.codenong.com/cs105709428/.
 2.ctfhub.com中ssrf模块.  
 
 ### XSS:
-1.xss学习，以及利用平台：xssaq.com.  
-2.xss-lab:https://github.com/paralax/xss-labs.  
+1.xss学习，以及利用平台：https://xssaq.com/xss.php    
+2.xss-lab:https://github.com/paralax/xss-labs.   
 
 
 ### UPload:
