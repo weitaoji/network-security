@@ -32,9 +32,9 @@ ssrf-lab靶场教程：https://www.codenong.com/cs105709428/.
 
 
 ## 渗透实战文章
-[前端JavaScript渗透测试步步为营](https://www.freebuf.com/vuls/255640.html)
-[挖到这个高危SSRF漏洞，小伙伴们都惊呆了！](https://www.freebuf.com/vuls/265163.html)
-[一次文件读取漏洞的“危害升级”历程](https://www.freebuf.com/vuls/257629.html)
+[前端JavaScript渗透测试步步为营](https://www.freebuf.com/vuls/255640.html)  
+[挖到这个高危SSRF漏洞，小伙伴们都惊呆了！](https://www.freebuf.com/vuls/265163.html)  
+[一次文件读取漏洞的“危害升级”历程](https://www.freebuf.com/vuls/257629.html)  
 
 ## 总结且完善中的图片(文件夹下有xmind思维导图文件)
 ![upload图片](upload/upload.png)
