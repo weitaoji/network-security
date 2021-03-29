@@ -35,10 +35,17 @@ ssrf-lab靶场教程：https://www.codenong.com/cs105709428/.
 [前端JavaScript渗透测试步步为营](https://www.freebuf.com/vuls/255640.html)  
 [挖到这个高危SSRF漏洞，小伙伴们都惊呆了！](https://www.freebuf.com/vuls/265163.html)  
 [一次文件读取漏洞的“危害升级”历程](https://www.freebuf.com/vuls/257629.html)  
+[记一次微信小程序渗透测试](https://www.secpulse.com/archives/144738.html?hmsr=toutiao.io&u=&utm_medium=toutiao.io&utm_source=toutiao.io)
+[SRC逻辑漏洞挖掘详解以及思路和技巧](https://mp.weixin.qq.com/s/pextke3A1SVhLx2O0TKfzw)
+
+
+## 学习文章
+[xss的一些资源和问题](https://blog.csdn.net/superprintf/article/details/113058825)
 
 ## 总结且完善中的图片(文件夹下有xmind思维导图文件)
 ![upload图片](upload/upload.png)
 ![ssrf图片](ssrf/ssrf.png)
+
 
 
 ## 其他
